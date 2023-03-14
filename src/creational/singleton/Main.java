@@ -1,3 +1,5 @@
+package creational.singleton;
+
 import creational.singleton.DatabaseConnectorEagerVersion;
 import creational.singleton.DatabaseConnectorLazyVersion;
 import creational.singleton.DatabaseConnectorThreadSafeEnum;
