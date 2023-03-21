@@ -59,20 +59,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="structural.façade" />
       <recent name="creational.abstractFactory" />
       <recent name="creational.abstractFactory.domain" />
       <recent name="creational.factory" />
       <recent name="creational.factory.domain" />
-      <recent name="structural.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.creational.abstractFactory.Main">
-    <configuration name="behavioral.strategy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioral.strategy.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.facade.Main" />
       <module name="Design-Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioral.strategy.*" />
+          <option name="PATTERN" value="structural.facade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="behavioral.strategy.renderers.renderers.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioral.strategy.renderers.renderers.Main" />
+    <configuration name="behavioral.strategy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.strategy.Main" />
       <module name="Design-Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioral.strategy.renderers.renderers.*" />
+          <option name="PATTERN" value="behavioral.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.creational.abstractFactory.Main" />
         <item itemvalue="Application.creational.factory.Main" />
         <item itemvalue="Application.structural.decorator.Main" />
         <item itemvalue="Application.behavioral.strategy.Main" />
-        <item itemvalue="Application.behavioral.strategy.renderers.renderers.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +155,8 @@
       <workItem from="1678875985864" duration="5818000" />
       <workItem from="1679065026024" duration="1545000" />
       <workItem from="1679225014255" duration="2552000" />
-      <workItem from="1679307090382" duration="3848000" />
+      <workItem from="1679307090382" duration="4483000" />
+      <workItem from="1679395331450" duration="2110000" />
     </task>
     <servers />
   </component>
