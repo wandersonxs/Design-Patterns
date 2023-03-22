@@ -29,6 +29,29 @@ Design Pattern and SOLID Principles Learning
     Composition gives more flexibility;
     With composition you can change behavior at run time;
 
+
+#### 2 - Command Pattern - 22/03/2023
+    The aim is to achieve separation of concerns;
+    Because of the abstract layer, we can achieve loosely coupled design;
+    Cand change send's behavior at run-time;
+    
+    There are usually 4 components of command pattern;
+        - Client
+        - Invoker
+        - Command
+        - Receiver
+
+    Advantages:
+        Decouple classes that will invoke the operations and the classes that will execute the operation.
+            LOOSELY COUPLED DESIGN + SINGLE RESPONSABILITY
+
+        Add further commands without modifying existing code
+            OPEN / CLOSED PRINCIPLE
+
+    The main advantage of storing the command (request) in an object is that we can execute them
+    whenever we want - This is how we can achieve undo and redo operations.
+
+
 ## Structural Design Patterns
 
     In software engineering structural design patterns are about how classes and objects can be composed to 
