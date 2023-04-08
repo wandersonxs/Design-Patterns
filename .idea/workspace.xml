@@ -70,7 +70,7 @@
       <recent name="creational.abstractFactory.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.creational.builder.Main">
+  <component name="RunManager" selected="Application.structural.flyweight.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Design-Patterns" />
@@ -104,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="creational.abstractFactory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.abstractFactory.Main" />
-      <module name="Design-Patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="creational.abstractFactory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="creational.builder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="creational.builder.Main" />
       <module name="Design-Patterns" />
@@ -126,17 +113,42 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="structural.flyweight.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.flyweight.Main" />
+      <module name="Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structural.flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.structural.flyweight.Main" />
+      <item itemvalue="Application.behavioral.command.Main" />
+      <item itemvalue="Application.creational.builder.Main" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.structural.flyweight.Main" />
         <item itemvalue="Application.creational.builder.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.behavioral.command.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.creational.abstractFactory.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +171,7 @@
       <workItem from="1679507858695" duration="1219000" />
       <workItem from="1679744293506" duration="1887000" />
       <workItem from="1680801175642" duration="2183000" />
-      <workItem from="1680962214829" duration="3584000" />
+      <workItem from="1680962214829" duration="6408000" />
     </task>
     <servers />
   </component>

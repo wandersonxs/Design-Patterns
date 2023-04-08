@@ -79,6 +79,15 @@ Design Pattern and SOLID Principles Learning
     The problem is that our classes may become tightly coupled to the implementation of the framework,
     then the façade pattern can help us to isolate the framework.
 
+####  3 - Flyweight Pattern 08/04/2023
+
+    A flyweight is an object that minimizes memory usage by sharing as much data as possible
+    with other simular objects;
+    Flyweight design pattern can be applied to reduce the load on memory by sharing objects;
+    We use it to minimize memory usage;
+    What is the flyweight exactly? Objects storing the intrinsict state
+    We will store extrinsic states into a a data structure; usually a simple one-dimensional
+    array data structure;
 
 ## Notes about Algorithms:
      If most of the items are in their sorted position and there are few items that we have to handle; Then Buble Sort is recommended.
