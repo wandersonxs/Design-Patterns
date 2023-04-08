@@ -19,6 +19,10 @@ Design Pattern and SOLID Principles Learning
         Abstract factory pattern creates indenpendent factories essentially, so it is producing
         families of related objects.
 
+#### 4 - Builder Factory - 08/04/2023
+        Avoid a lot of constructors and telescoping constructors;
+        Immutable attributes / objects to parallel execution;
+
 ## Behavioral Design Patterns
 
 #### 1 - Strategy Pattern - 14/03/2023
@@ -47,7 +51,7 @@ Design Pattern and SOLID Principles Learning
 
         Add further commands without modifying existing code
             OPEN / CLOSED PRINCIPLE
-
+    
     The main advantage of storing the command (request) in an object is that we can execute them
     whenever we want - This is how we can achieve undo and redo operations.
 
