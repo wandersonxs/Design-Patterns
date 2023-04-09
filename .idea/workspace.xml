@@ -70,23 +70,10 @@
       <recent name="creational.abstractFactory.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.structural.flyweight.Main">
+  <component name="RunManager" selected="Application.behavioral.iterator.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Design-Patterns" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structural.facade.Main" />
-      <module name="Design-Patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="structural.facade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,6 +84,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="behavioral.command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="behavioral.iterator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.iterator.Main" />
+      <module name="Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioral.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,19 +136,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.behavioral.iterator.Main" />
       <item itemvalue="Application.structural.flyweight.Main" />
       <item itemvalue="Application.behavioral.command.Main" />
       <item itemvalue="Application.creational.builder.Main" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.behavioral.iterator.Main" />
         <item itemvalue="Application.structural.flyweight.Main" />
         <item itemvalue="Application.creational.builder.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.behavioral.command.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,8 @@
       <workItem from="1679507858695" duration="1219000" />
       <workItem from="1679744293506" duration="1887000" />
       <workItem from="1680801175642" duration="2183000" />
-      <workItem from="1680962214829" duration="6408000" />
+      <workItem from="1680962214829" duration="7472000" />
+      <workItem from="1681064327766" duration="924000" />
     </task>
     <servers />
   </component>

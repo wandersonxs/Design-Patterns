@@ -55,6 +55,16 @@ Design Pattern and SOLID Principles Learning
     The main advantage of storing the command (request) in an object is that we can execute them
     whenever we want - This is how we can achieve undo and redo operations.
 
+#### 3 - Iterator Pattern - 09/04/2023
+
+    We can access elements of a collection for example in sequential manner ithout any need to know about 
+    the underlying representation;
+    Essentially it is useful when we eant to iterate through elements with different types;
+    The iterator pattern decouples the algorithms from the containers wihtout the need for the underlying 
+    representation.
+    We do not care how the data is being stored. We just want to iterate through the items independently 
+    of the underlying representation;
+    Java uses Iterator pattern under the hood.
 
 ## Structural Design Patterns
 
