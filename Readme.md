@@ -99,7 +99,13 @@ Design Pattern and SOLID Principles Learning
     We will store extrinsic states into a a data structure; usually a simple one-dimensional
     array data structure;
 
+#### 4 - Adapter Pattern 12/04/2023
+    The aim of adapter pattern is to allow objects with incompatible interfaces 
+    to collaborate and work together.
+
+
 ## Notes about Algorithms:
-     If most of the items are in their sorted position and there are few items that we have to handle; Then Buble Sort is recommended.
+     If most of the items are in their sorted position and there are few items that we have to handle; 
+     Then Buble Sort is recommended.
      If we want to sort reference types and objects, then merge sort is recommended. Java uses merge sort under the hood.
      If we want to use primitive types, then quicksort is the best algorithm possible.

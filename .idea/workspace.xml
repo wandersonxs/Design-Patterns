@@ -63,14 +63,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="structural.adapter.external.domain" />
+      <recent name="structural.adapter.domain" />
       <recent name="creational.builder.domain" />
       <recent name="behavioral.command" />
       <recent name="structural.façade" />
-      <recent name="creational.abstractFactory" />
-      <recent name="creational.abstractFactory.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.behavioral.iterator.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Design-Patterns" />
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="behavioral.command.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioral.command.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.adapter.Main" />
       <module name="Design-Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioral.command.*" />
+          <option name="PATTERN" value="structural.adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,19 +136,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.behavioral.iterator.Main" />
       <item itemvalue="Application.structural.flyweight.Main" />
-      <item itemvalue="Application.behavioral.command.Main" />
       <item itemvalue="Application.creational.builder.Main" />
       <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.behavioral.iterator.Main" />
         <item itemvalue="Application.structural.flyweight.Main" />
         <item itemvalue="Application.creational.builder.Main" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.behavioral.command.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +172,9 @@
       <workItem from="1679744293506" duration="1887000" />
       <workItem from="1680801175642" duration="2183000" />
       <workItem from="1680962214829" duration="7472000" />
-      <workItem from="1681064327766" duration="924000" />
+      <workItem from="1681064327766" duration="2219000" />
+      <workItem from="1681298552755" duration="845000" />
+      <workItem from="1681306066586" duration="432000" />
     </task>
     <servers />
   </component>
